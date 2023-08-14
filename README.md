@@ -1,5 +1,5 @@
 # Daftar-Biodata-Siswa
-==
+
 Daftar Biodata Siswa Dicoding Academy
 --
 *biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
